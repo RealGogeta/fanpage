@@ -1,5 +1,6 @@
 html {
     height: 100%;
+    background-color: green;
 }
 
 body {
@@ -12,6 +13,7 @@ a {
 
 .main {
     height: 100%;
+    background-image: url(https://vignette.wikia.nocookie.net/characterprofile/images/e/e1/Izuku_Midoriya%2C_the_Successor_to_All_Might.png/revision/latest?cb=20170801171151);
 }
 .social-image{
     width: 30px;
