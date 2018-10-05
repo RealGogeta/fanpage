@@ -10,6 +10,17 @@ body {
 a {
     text-decoration: none;
 }
+.header{
+    display: flex;
+    justify-content:center;
+    
+}
+.navbar{
+    display: flex;
+    width:100%;
+    justify-content: space-around;
+    border:2px solid black;
+}
 
 .main {
     height: 100%;
@@ -18,4 +29,19 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.gallery {
+    display:flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content:space-around;
+}
+.thumbnail-image{
+    border: 1px solid black;
+}
+.social{
+    justify-content: space-around;
+}
+.leftPane{
+    justify-content:center;
 }
